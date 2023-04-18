@@ -3,9 +3,9 @@
 
 Hello 👋👨‍💻
 
-My name is Hossein Naderi, and I'm a Software engineer/architect.
+My name is Hossein Naderi, and I'm a Software engineer interested in Software Architecture, Reactive systems, and Functional programming.
 
-I love simplicity and solving problems in general; I’m also really good at talking to computers and teach them how we solved the problems and how they can help us running our solutions so we are free to do more important stuff!  
-My interests include: thinking, learning, improving the life of people, seeking for simplicity and of course programming!  
+Also I'll be very happy to find new friends, so don't hesitate to contact me, especially if are a nerd like me which we can talk about our common obsessions!
 
-I'll be very happy to find new friends, so don't hesitate to contact me, especially if are a nerd like me which we can talk about our common obsessions!
+![](https://github-readme-stats.vercel.app/api?username=hnaderi&show_icons=true&theme=outrun)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hnaderi&layout=compact&theme=outrun)
